@@ -20,7 +20,7 @@ The first two scripts are self-contained (they take published summary statistics
 
 ## Data
 
-### UK Biobank Proteome–Phenome Atlas (for the two figure scripts)
+### UK Biobank Proteome–Phenome Atlas
 
 `protein_forest_plot.R` and `barcode_enrichment_plot.R` read per-protein, smoking-adjusted incident-disease hazard ratios from the UK Biobank Proteome–Phenome Atlas (Deng et al., Cell 2024; DOI 10.1016/j.cell.2024.10.045), available via the portal at https://proteome-phenome-atlas.com/. The underlying UK Biobank resource is available to approved researchers at https://www.ukbiobank.ac.uk/.
 
